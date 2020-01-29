@@ -40,7 +40,7 @@ componentDidMount(){
               <div class="media-body">
                 <h5 class="mt-0">Name: - {employee.name}</h5>
                 <h6 class="mt-0">Location: - {employee.location}
-                <p class="directory-phone">Phone: - {employee.phone} </p>
+                <p class="directory-phone"> </p>
                 </h6>
               </div>
             </div>
